@@ -1,0 +1,118 @@
+body {
+  color: #e5eff5;
+  font-family: 'Karla', sans-serif;
+  font-size: 16px;
+  margin: 0;
+  padding: 0 25%;
+}
+
+h2 {
+  color: #2ab2af;
+}
+
+.access-text {
+  color: #98a6bd;
+  line-height: 0.8;
+}
+
+.guarantee-header {
+  color: #c0df34;
+}
+
+.amount {
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 0.3;
+}
+
+.full-access {
+  line-height: 0.3;
+  padding-bottom: 10px;
+}
+
+.list {
+  line-height: 0.4;
+  opacity: 0.75;
+}
+
+.per-month {
+  font-size: 16px;
+  font-weight: 400;
+  opacity: 0.5;
+}
+
+.subscription {
+  background-color: #2ab2af;
+  Padding: 20px 35px;
+  position: absolute;
+  height: 230px;
+  width: 250px;
+}
+
+.sub-why {
+  position: relative;
+  width: 100%;
+}
+
+.top-container {
+  padding: 35px;
+}
+
+.why-us {
+  background-color: #4abebd;
+  padding: 20px 35px;
+  position: absolute;
+  left: 320px;
+  top: 0;
+  height: 230px;
+  width: 250px;
+}
+
+/* footer stuff */
+.attribution {
+  font-size: 11px;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  position: absolute;
+  width: 100%;
+}
+
+.attribution a {
+  color: #3e52a3;
+}
+
+/* button! */
+.BUTTON_VYB {
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   color: #E5EFF5;
+   font-family: 'Karla', sans-serif;
+   font-size: 20px;
+   font-weight: 700;
+   padding: 15px 80px;
+   background-color: #C0DF34;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: none;
+   text-shadow: none;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_VYB:hover {
+   border: none;
+   background: #839F00;
+   background-image: -webkit-linear-gradient(top, #839F00, #BBD34D);
+   background-image: -moz-linear-gradient(top, #839F00, #BBD34D);
+   background-image: -ms-linear-gradient(top, #839F00, #BBD34D);
+   background-image: -o-linear-gradient(top, #839F00, #BBD34D);
+   background-image: -webkit-gradient(to bottom, #839F00, #BBD34D);
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   text-decoration: none;
+}
